@@ -1,12 +1,11 @@
 @font-face {
   font-family: 'iconsax';
+  font-weight: normal;
+  font-style: normal;
   src: url('font/iconsax.eot');
   src: url('font/iconsax.eot?#iefix') format('embedded-opentype'),
       url('font/iconsax.woff2') format('woff2'),
       url('font/iconsax.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
 }
 
 .isax {
